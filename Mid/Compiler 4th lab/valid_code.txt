@@ -1,0 +1,15 @@
+int x;
+float _avg;
+double data1;
+char c;
+void start();
+int calculate();
+float getValue();
+double _sum();
+int _temp;
+char _a1;
+double number2;
+void run();
+int _count();
+float _data();
+char display();
