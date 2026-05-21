@@ -1,0 +1,10 @@
+int a = 100;
+float b = 50.75;
+char c = 'x';
+if(a>b) {
+b = b - 10;
+}
+else {
+b = b + 10;
+}
+return b;

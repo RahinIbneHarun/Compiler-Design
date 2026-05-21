@@ -1,0 +1,33 @@
+Line 1: Variable Declaration
+Line 2: Variable Declaration
+Line 3: Variable Declaration
+Line 4: Variable Declaration
+Line 5: Invalid
+Line 6: Function Declaration
+Line 7: Function Declaration
+Line 8: Function Declaration
+Line 9: Function Declaration
+Line 10: Invalid
+Line 11: Invalid
+Line 12: Invalid
+Line 13: Invalid
+Line 14: Invalid
+Line 15: Invalid
+Line 16: Invalid
+Line 17: Invalid
+Line 18: Invalid
+Line 19: Invalid
+Line 20: Variable Declaration
+Line 21: Variable Declaration
+Line 22: Variable Declaration
+Line 23: Invalid
+Line 24: Function Declaration
+Line 25: Function Declaration
+Line 26: Function Declaration
+Line 27: Function Declaration
+
+Summary:
+Total lines = 27
+Variable Declarations = 7
+Function Declarations = 8
+Invalid = 12

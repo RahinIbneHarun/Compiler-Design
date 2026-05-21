@@ -1,0 +1,46 @@
+Line 1: int -> Keyword
+Line 1: a -> Identifier
+Line 1: = -> Operator
+Line 1: 100 -> Integer Constant
+Line 1: ; -> Delimiter
+Line 2: float -> Keyword
+Line 2: b -> Identifier
+Line 2: = -> Operator
+Line 2: ; -> Delimiter
+Line 3: char -> Keyword
+Line 3: c -> Identifier
+Line 3: = -> Operator
+Line 3: ; -> Delimiter
+Line 4: if -> Keyword
+Line 4: ( -> Delimiter
+Line 4: a -> Identifier
+Line 4: > -> Operator
+Line 4: b -> Identifier
+Line 4: ) -> Delimiter
+Line 4: { -> Delimiter
+Line 5: b -> Identifier
+Line 5: = -> Operator
+Line 5: b -> Identifier
+Line 5: - -> Operator
+Line 5: 10 -> Integer Constant
+Line 5: ; -> Delimiter
+Line 6: } -> Delimiter
+Line 7: else -> Keyword
+Line 7: { -> Delimiter
+Line 8: b -> Identifier
+Line 8: = -> Operator
+Line 8: b -> Identifier
+Line 8: + -> Operator
+Line 8: 10 -> Integer Constant
+Line 8: ; -> Delimiter
+Line 9: } -> Delimiter
+Line 10: return -> Keyword
+Line 10: b -> Identifier
+Line 10: ; -> Delimiter
+
+Summary:
+Keywords = 6
+Identifiers = 10
+Integer Constants = 3
+Operators = 8
+Delimiters = 12
